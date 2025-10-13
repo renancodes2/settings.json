@@ -1,0 +1,54 @@
+{
+    "editor.fontSize": 17,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.tabSize": 2,
+    "workbench.tree.indent": 12,
+    "terminal.integrated.cursorWidth": 3,
+    "editor.cursorHeight": 200,
+    "editor.cursorWidth": 20,
+    "scm.inputFontSize": 18,
+    "terminal.integrated.cursorStyle": "underline",
+    "editor.fontWeight": "400",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.editor.enablePreview": false,
+    "code-runner.clearPreviousOutput": true,
+    "editor.stickyScroll.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "explorer.compactFolders": false, 
+    "workbench.tree.enableStickyScroll": false,
+
+
+    "workbench.colorCustomizations": {
+        "editor.background": "#000010",
+        "sideBar.background": "#000010",
+        "activityBar.background": "#000010",
+        "statusBar.background": "#000010",
+        "terminal.background": "#000010",
+
+    },
+
+    "workbench.iconTheme": "symbols",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "terminal.integrated.fontSize": 13,
+    "debug.disassemblyView.showSourceCode": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.renderLineHighlight": "gutter",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "window.commandCenter": false,
+    "window.titleBarStyle": "custom",
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Min Dark"
+}
